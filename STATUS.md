@@ -1,7 +1,10 @@
 # STATUS — gta6-twitch-ccu-forecast-01
 
 - Repo: https://github.com/rismzz/gta6-twitch-ccu-forecast-01
-- Commit: (filled after push — see below)
+- Commit (code): 5ad25eefdc27c6d4272cc2f43c595d9df85063b0
+  (this file was committed on top of it; use the HEAD SHA reported by the
+  builder when submitting — the code at that HEAD is identical except for
+  this STATUS.md update)
 - Competition: $250 USDC, 20 paid places. Entries close 2026-11-19T01:00:00Z
   (08:00 WIB Wed 19 Nov 2026). Final window starts 2026-11-20T00:00Z.
 - Entry: `main.py` (Python 3.13, stdlib only), original code written in this
